@@ -1,8 +1,22 @@
 {
-  "buyers": [],
+  "buyers": [
+    {
+      "id": "1738874855237",
+      "name": "Elena",
+      "numbers": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "status": "Pago",
+      "reservationTime": null
+    }
+  ],
   "prizes": [],
   "drawnNumbers": [],
   "totalAmount": 0,
-  "totalNumbers": 0,
-  "ticketPrice": 5
+  "totalNumbers": 100,
+  "ticketPrice": 20
 }
